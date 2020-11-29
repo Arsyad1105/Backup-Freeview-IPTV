@@ -15,4 +15,5 @@ http://mediaprima.rastream.com/mediaprima-koolfm
 http://stereo.nasyidfm.com:8000/;
 #EXTINF:0 channelID="x-ID.7" tvg-chno="708" tvg-name="Radio Nurul Quran" tvg-id="708" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2018/01/Radio-Nurul-Quran-100x47.jpg" group-title="Radio",Radio Nurul Quran
 http://cloud.tujuh.my:8073/stream
-#EXTINF:0 channelID="x-ID.7" tvg-chno="709" tvg-name="Hijau FM" tvg-id="708" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2018/01/Radio-Nurul-Quran-100x47.jpg" group-title="Radio",Radio Nurul Quran
+#EXTINF:0 channelID="x-ID.7" tvg-chno="709" tvg-name="Hijau FM" tvg-id="709" tvg-logo="https://lh3.googleusercontent.com/proxy/sX_7vMPizgCbw1XzsEmzVLvbzcfHSY9jQtgRXdGguaBlxMYddyJrpPY6fnY61_qykgCgBt8CTYcjVI0rGfKbSLgmaiZ721NQgyRE2aoqXoaJoA" group-title="Radio",Hijau FM
+https://stream.radio.co/s4c9c7e0cb/listen
