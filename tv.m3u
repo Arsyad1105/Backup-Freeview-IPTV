@@ -24,7 +24,7 @@ https://github.com/Arsyad1105/MYTV-BASICTV/blob/master/No%20Signal.mp4?raw=true
 #KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=Y2M4ZTBjYWItNDZjYi0zM2VjLTgxOGUtOTY1ODUxZWE3NThm
 https://fvtv.mywire.org/dash/tvalhijrah.mpd
 #EXTINF:0 channelID="x-ID.21" tvg-chno="120" tvg-name="Astro Go Shop" tvg-id="120" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw" group-title="TV",Astro Go Shop
-http://192.168.8.107:34400/stream/ad90bcbfb19264aae069a317dfdbb0f1
+https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_03.m3u8
 #EXTINF:0 channelID="x-ID.23" tvg-chno="121" tvg-name="BERNAMA" tvg-id="121" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png" group-title="TV",BERNAMA
 https://github.com/Arsyad1105/MYTV-BASICTV/blob/master/No%20Signal.m3u8?raw=true
 #EXTINF:0 channelID="x-ID.24" tvg-chno="123" tvg-name="Berita RTM" tvg-id="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="TV",Berita RTM
