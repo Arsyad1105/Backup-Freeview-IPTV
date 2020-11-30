@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Arsyad1105/MYTV-BASICTV/master/beta.xml" x-tvg-url="https://raw.githubusercontent.com/Arsyad1105/MYTV-BASICTV/master/beta.xml"
+#EXTM3U url-tvg="null" x-tvg-url="null"
 #EXTINF:0 channelID="x-ID.0" tvg-chno="701" tvg-name="Quran" tvg-id="701" tvg-logo="https://quran.com.kw/wp-content/uploads/brand.png" group-title="Radio",Quran
 http://quraan.us:9922/;*.mp3
 #EXTINF:0 channelID="x-ID.1" tvg-chno="702" tvg-name="Gegar" tvg-id="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Gegar_2018.png/revision/latest/scale-to-width-down/340?cb=20190529033017" group-title="Radio",Gegar
