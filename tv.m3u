@@ -3,16 +3,16 @@
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:0 channelID="x-ID.11" tvg-chno="102" tvg-name="TV2" tvg-id="102" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png" group-title="TV",TV2
 https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-#EXTINF:0 channelID="x-ID.12" tvg-chno="103" tvg-name="TV3" tvg-id="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png" group-title="TV",TV3
-http://192.168.8.107:34400/stream/6483776b91c193ed2b2fcc973d44b4df
-#EXTINF:0 channelID="x-ID.16" tvg-chno="105" tvg-name="Drama Sangat" tvg-id="105" tvg-logo="https://fvtv.mywire.org/logos/drama-sangat.png" group-title="TV",Drama Sangat
+#EXTINF:0 channelID="x-ID.12" tvg-chno="103" tvg-name="TV3" tvg-id="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png" group-title="TV",TV3 (Tivimate Only)
+https://fvtv.mywire.org/playlist/c6pxxm7rgq-maywremf1e.m3u8|Referer=https://www.dailymotion.com
+#EXTINF:0 channelID="x-ID.16" tvg-chno="105" tvg-name="Drama Sangat" tvg-id="105" tvg-logo="https://fvtv.mywire.org/logos/drama-sangat.png" group-title="TV",Drama Sangat (Tivimate Only)
 http://192.168.8.107:34400/stream/04e2e4d12c9ce5f670445c37617ed72e
-#EXTINF:0 channelID="x-ID.13" tvg-chno="107" tvg-name="NTV7" tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147.png" group-title="TV",NTV7
-http://192.168.8.107:34400/stream/f548b9ba50a09cbe610e1663f4a24964
-#EXTINF:0 channelID="x-ID.14" tvg-chno="108" tvg-name="8TV" tvg-id="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png" group-title="TV",8TV
-http://192.168.8.107:34400/stream/fc5a7a00282c034d1f718f0b8e5669c1
-#EXTINF:0 channelID="x-ID.15" tvg-chno="109" tvg-name="TV9" tvg-id="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png" group-title="TV",TV9
-http://192.168.8.107:34400/stream/73bc0e78c07341edb13eb09bdc4c29d0
+#EXTINF:0 channelID="x-ID.13" tvg-chno="107" tvg-name="NTV7" tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147.png" group-title="TV",NTV7 (Tivimate Only)
+https://fvtv.mywire.org/playlist/v6wy5rq4af-qs2njy69km.m3u8
+#EXTINF:0 channelID="x-ID.14" tvg-chno="108" tvg-name="8TV" tvg-id="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png" group-title="TV",8TV (Tivimate Only)
+https://fvtv.mywire.org/playlist/8dscyy8nb0-hatkqxr4hm.m3u8
+#EXTINF:0 channelID="x-ID.15" tvg-chno="109" tvg-name="TV9" tvg-id="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png" group-title="TV",TV9 (Tivimate Only)
+https://fvtv.mywire.org/playlist/cyxua17hra-kspk2qfm7h.m3u8
 #EXTINF:0 channelID="x-ID.17" tvg-chno="110" tvg-name="OKEY" tvg-id="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="TV",OKEY
 http://192.168.8.107:34400/stream/7dfa9af18c82dc606ea99f98439a8106
 #EXTINF:0 channelID="x-ID.38" tvg-chno="111" tvg-name="RTM Sports HD" tvg-id="111" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png" group-title="TV",RTM Sports HD
