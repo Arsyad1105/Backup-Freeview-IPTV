@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="x-ID.0">
+  <channel id="701">
     <display-name lang="en">Quran</display-name>
   </channel>
   <programme start="20201130000000 +0000" stop="20211130235900 +0000" channel="Example">
