@@ -45,7 +45,7 @@ http://mediaprima.rastream.com/mediaprima-koolfm
 http://stereo.nasyidfm.com:8000/;
 #EXTINF:0 channelID="x-ID.7" tvg-chno="708" tvg-name="Radio Nurul Quran" tvg-id="708" tvg-logo="https://www.liveonlineradio.net/wp-content/uploads/2018/01/Radio-Nurul-Quran-100x47.jpg" group-title="Radio",Radio Nurul Quran
 http://cloud.tujuh.my:8073/stream
-#EXTINF:0 channelID="x-ID.8" tvg-chno="709" tvg-name="Hijau FM" tvg-id="709" tvg-logo="https://lh3.googleusercontent.com/proxy/sX_7vMPizgCbw1XzsEmzVLvbzcfHSY9jQtgRXdGguaBlxMYddyJrpPY6fnY61_qykgCgBt8CTYcjVI0rGfKbSLgmaiZ721NQgyRE2aoqXoaJoA" group-title="Radio",Hijau FM
+#EXTINF:0 channelID="x-ID.8" tvg-chno="709" tvg-name="Hijau FM" tvg-id="709" tvg-logo="https://static-media.streema.com/media/cache/27/da/27da975a3f58139df34a2eb361f8dc39.jpg" group-title="Radio",Hijau FM
 https://stream.radio.co/s4c9c7e0cb/listen
 #EXTINF:0 channelID="x-ID.9" tvg-chno="710" tvg-name="Manis FM" tvg-id="710" tvg-logo="http://live.manis.fm/images/logo.png" group-title="Radio",Manis FM
 https://n08.rcs.revma.com/nzgauqq1v7zuv?rj-ttl=5&rj-tok=AAABdhR8ER0AgdmYw5WZoBc3pQ
