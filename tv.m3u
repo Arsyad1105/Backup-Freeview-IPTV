@@ -1,4 +1,32 @@
 #EXTM3U url-tvg="null" x-tvg-url="null"
+#EXTINF:0 channelID="x-ID.10" tvg-chno="101" tvg-name="TV1" tvg-id="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png" group-title="TV",TV1
+http://192.168.8.107:34400/stream/fb92fbc5455c422e8647a263eeb4cce8
+#EXTINF:0 channelID="x-ID.11" tvg-chno="102" tvg-name="TV2" tvg-id="102" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png" group-title="TV",TV2
+http://192.168.8.107:34400/stream/381b9f20a3236493d40328a8a19322eb
+#EXTINF:0 channelID="x-ID.12" tvg-chno="103" tvg-name="TV3" tvg-id="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png" group-title="TV",TV3
+http://192.168.8.107:34400/stream/6483776b91c193ed2b2fcc973d44b4df
+#EXTINF:0 channelID="x-ID.16" tvg-chno="105" tvg-name="Drama Sangat" tvg-id="105" tvg-logo="https://fvtv.mywire.org/logos/drama-sangat.png" group-title="TV",Drama Sangat
+http://192.168.8.107:34400/stream/04e2e4d12c9ce5f670445c37617ed72e
+#EXTINF:0 channelID="x-ID.13" tvg-chno="107" tvg-name="NTV7" tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147.png" group-title="TV",NTV7
+http://192.168.8.107:34400/stream/f548b9ba50a09cbe610e1663f4a24964
+#EXTINF:0 channelID="x-ID.14" tvg-chno="108" tvg-name="8TV" tvg-id="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png" group-title="TV",8TV
+http://192.168.8.107:34400/stream/fc5a7a00282c034d1f718f0b8e5669c1
+#EXTINF:0 channelID="x-ID.15" tvg-chno="109" tvg-name="TV9" tvg-id="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png" group-title="TV",TV9
+http://192.168.8.107:34400/stream/73bc0e78c07341edb13eb09bdc4c29d0
+#EXTINF:0 channelID="x-ID.17" tvg-chno="110" tvg-name="OKEY" tvg-id="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="TV",OKEY
+http://192.168.8.107:34400/stream/7dfa9af18c82dc606ea99f98439a8106
+#EXTINF:0 channelID="x-ID.38" tvg-chno="111" tvg-name="RTM Sports HD" tvg-id="111" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png" group-title="TV",RTM Sports HD
+http://192.168.8.107:34400/stream/0eab50b343eeef78856c78aa41039c4e
+#EXTINF:0 channelID="x-ID.18" tvg-chno="112" tvg-name="Awesome TV" tvg-id="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="TV",Awesome TV (Unavaible)
+http://null
+#EXTINF:0 channelID="x-ID.20" tvg-chno="114" tvg-name="TV Alhijrah" tvg-id="114" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png" group-title="Malaysia",TV Alhijrah
+http://192.168.8.107:34400/stream/d00421022d81c8d02a708bac84e75f6e
+#EXTINF:0 channelID="x-ID.21" tvg-chno="120" tvg-name="Astro Go Shop" tvg-id="120" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw" group-title="Malaysia",Astro Go Shop
+http://192.168.8.107:34400/stream/ad90bcbfb19264aae069a317dfdbb0f1
+#EXTINF:0 channelID="x-ID.23" tvg-chno="121" tvg-name="BERNAMA" tvg-id="121" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png" group-title="News",BERNAMA
+http://192.168.8.107:34400/stream/5c75b97246be60bf1e59da6a1ffe882e
+#EXTINF:0 channelID="x-ID.24" tvg-chno="123" tvg-name="Berita RTM" tvg-id="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="News",Berita RTM
+http://192.168.8.107:34400/stream/1965d7b8ccc9b966dbe6c60e2abc7153
 #EXTINF:0 channelID="x-ID.0" tvg-chno="701" tvg-name="Quran" tvg-id="701" tvg-logo="https://quran.com.kw/wp-content/uploads/brand.png" group-title="Radio",Quran
 http://quraan.us:9922/;*.mp3
 #EXTINF:0 channelID="x-ID.1" tvg-chno="702" tvg-name="Gegar" tvg-id="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Gegar_2018.png/revision/latest/scale-to-width-down/340?cb=20190529033017" group-title="Radio",Gegar
