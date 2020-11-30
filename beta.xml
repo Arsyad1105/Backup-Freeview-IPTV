@@ -3,7 +3,7 @@
   <channel id="701">
     <display-name lang="en">Quran</display-name>
   </channel>
-  <programme start="20201130000000 +0000" stop="20211130235900 +0000" channel="Example">
+  <programme start="20201130000000 +0000" stop="20201130235900 +0000" channel="Example">
     <title lang="en">Quran</title>
     <desc lang="en">Quran recitation by Mishary Al-Afasy.(n)</desc>
   </programme>
