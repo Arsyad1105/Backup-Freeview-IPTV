@@ -49,5 +49,3 @@ http://cloud.tujuh.my:8073/stream
 https://stream.radio.co/s4c9c7e0cb/listen
 #EXTINF:0 channelID="x-ID.9" tvg-chno="710" tvg-name="Manis FM" tvg-id="710" tvg-logo="http://live.manis.fm/images/logo.png" group-title="Radio",Manis FM
 https://n08.rcs.revma.com/nzgauqq1v7zuv?rj-ttl=5&rj-tok=AAABdhR8ER0AgdmYw5WZoBc3pQ
-#EXTINF:0 channelID="x-ID.9" tvg-chno="710" tvg-name="Manis FM" tvg-id="710" tvg-logo="http://live.manis.fm/images/logo.png" group-title="Radio",Manis FM (Test)
-https://live-ak.vimeocdn.com/exp=1606836527~acl=%2F0bc96125-43de-453e-b89d-b676ffba4da8%2F%2A~hmac=53d5d7dd8dd62b10d131fb4b976cc491f28035b5303e16aa1501b5683574621d/0bc96125-43de-453e-b89d-b676ffba4da8/chunklist_b416000.m3u8
