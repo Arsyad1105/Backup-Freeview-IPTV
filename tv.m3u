@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/Arsyad1105/MYTV-BASICTV/master/test.xml" x-tvg-url="https://raw.githubusercontent.com/Arsyad1105/MYTV-BASICTV/master/test.xml"
+#EXTM3U url-tvg="https://github.com/Arsyad1105/MYTV-BASICTV/blob/master/test.xml.gz" x-tvg-url="https://raw.githubusercontent.com/Arsyad1105/MYTV-BASICTV/blob/master/test.xml.gz"
 #EXTINF:0 channelID="x-ID.10" tvg-chno="101" tvg-name="TV1" tvg-id="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png" group-title="TV",TV1
 https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
 #EXTINF:0 channelID="x-ID.11" tvg-chno="102" tvg-name="TV2" tvg-id="102" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png" group-title="TV",TV2
