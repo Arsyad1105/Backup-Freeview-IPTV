@@ -26,7 +26,7 @@ https://fvtv.mywire.org/dash/tvalhijrah.mpd
 #EXTINF:0 channelID="x-ID.21" tvg-chno="120" tvg-name="Astro Go Shop" tvg-id="120" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw" group-title="TV",Astro Go Shop
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_03.m3u8
 #EXTINF:0 channelID="x-ID.23" tvg-chno="121" tvg-name="BERNAMA" tvg-id="121" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png" group-title="TV",BERNAMA
-https://github.com/Arsyad1105/MYTV-BASICTV/blob/master/No%20Signal.m3u8?raw=true
+https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
 #EXTINF:0 channelID="x-ID.24" tvg-chno="123" tvg-name="Berita RTM" tvg-id="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="TV",Berita RTM
 https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:0 channelID="x-ID.0" tvg-chno="701" tvg-name="Quran" tvg-id="701" tvg-logo="https://quran.com.kw/wp-content/uploads/brand.png" group-title="Radio",Quran
