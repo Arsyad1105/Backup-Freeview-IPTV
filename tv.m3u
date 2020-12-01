@@ -20,9 +20,7 @@ https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.
 #EXTINF:0 channelID="x-ID.18" tvg-chno="112" tvg-name="Awesome TV" tvg-id="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="TV",Awesome TV (Unavaible)
 https://github.com/Arsyad1105/MYTV-BASICTV/blob/master/No%20Signal.m3u8?raw=true
 #EXTINF:0 channelID="x-ID.20" tvg-chno="114" tvg-name="TV Alhijrah" tvg-id="114" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png" group-title="TV",TV Alhijrah
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=Y2M4ZTBjYWItNDZjYi0zM2VjLTgxOGUtOTY1ODUxZWE3NThm
-https://fvtv.mywire.org/dash/tvalhijrah.mpd
+https://github.com/Arsyad1105/MYTV-BASICTV/blob/master/No%20Signal.m3u8?raw=true
 #EXTINF:0 channelID="x-ID.21" tvg-chno="120" tvg-name="Astro Go Shop" tvg-id="120" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw" group-title="TV",Astro Go Shop
 https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_03.m3u8
 #EXTINF:0 channelID="x-ID.23" tvg-chno="121" tvg-name="BERNAMA" tvg-id="121" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png" group-title="TV",BERNAMA
