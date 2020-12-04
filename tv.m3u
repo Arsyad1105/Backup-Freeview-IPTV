@@ -1,34 +1,4 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/Arsyad1105/MYTV-BASICTV/master/test.xml" x-tvg-url="https://raw.githubusercontent.com/Arsyad1105/MYTV-BASICTV/master/test.xml"
-#EXTINF:0 channelID="x-ID.10" tvg-chno="101" tvg-name="TV1" tvg-id="101" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/101.png" group-title="TV",TV1
-https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-#EXTINF:0 channelID="x-ID.11" tvg-chno="102" tvg-name="TV2" tvg-id="102" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/202002/20200228/20200228032302034uev.png" group-title="TV",TV2
-https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b2064000.m3u8
-#EXTINF:0 channelID="x-ID.12" tvg-chno="103" tvg-name="TV3" tvg-id="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/103.png" group-title="TV",TV3
-https://fvtv.mywire.org/streams/dailymotion/ch_tv3.m3u8|Referer=https://www.dailymotion.com
-#EXTINF:0 channelID="x-ID.16" tvg-chno="105" tvg-name="Drama Sangat" tvg-id="105" tvg-logo="https://fvtv.mywire.org/logos/drama-sangat.png" group-title="TV",Drama Sangat
-https://fvtv.mywire.org/streams/dailymotion/ch_ds.m3u8|Referer=https://www.dailymotion.com
-#EXTINF:0 channelID="x-ID.13" tvg-chno="107" tvg-name="NTV7" tvg-id="107" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/147.png" group-title="TV",NTV7
-https://fvtv.mywire.org/streams/dailymotion/ch_ntv7.m3u8|Referer=https://www.dailymotion.com
-#EXTINF:0 channelID="x-ID.14" tvg-chno="108" tvg-name="8TV" tvg-id="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/148.png" group-title="TV",8TV
-https://fvtv.mywire.org/streams/dailymotion/ch_8tv.m3u8|Referer=https://www.dailymotion.com
-#EXTINF:0 channelID="x-ID.15" tvg-chno="109" tvg-name="TV9" tvg-id="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/149.png" group-title="TV",TV9
-https://fvtv.mywire.org/streams/dailymotion/ch_tv9.m3u8|Referer=https://www.dailymotion.com
-#EXTINF:0 channelID="x-ID.17" tvg-chno="110" tvg-name="OKEY" tvg-id="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png" group-title="TV",OKEY
-https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-#EXTINF:0 channelID="x-ID.38" tvg-chno="111" tvg-name="RTM Sports HD" tvg-id="111" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/RTM_Sports.png" group-title="TV",RTM Sports HD
-https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
-#EXTINF:0 channelID="x-ID.18" tvg-chno="112" tvg-name="Awesome TV" tvg-id="112" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Awesome_TV_Malaysia.png" group-title="TV",Awesome TV (Unavaible)
-https://github.com/Arsyad1105/MYTV-BASICTV/blob/master/No%20Signal.m3u8?raw=true
-#EXTINF:0 channelID="x-ID.20" tvg-chno="114" tvg-name="TV Alhijrah" tvg-id="114" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716072749378meg.png" group-title="TV",TV Alhijrah
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://1.9.58.113:8063/?deviceId=YzU1NDI3MTMtNGUyMS0zN2EzLWE3OWYtMWQ4MGI2MGI1OTdi
-https://fvtv.mywire.org/dash/tvalhijrah.mpd
-#EXTINF:0 channelID="x-ID.21" tvg-chno="120" tvg-name="Astro Go Shop" tvg-id="120" tvg-logo="https://play-lh.googleusercontent.com/pbbrr6jWaoVhtK_aJSQgLNOnssxQ55NUwrZLCFx-9DJH2jUEV92Evcsi2jSkA1zhsg=s360-rw" group-title="TV",Astro Go Shop
-https://agsplayback01.astro.com.my/CH1/master_AGS_RAYA_03.m3u8
-#EXTINF:0 channelID="x-ID.23" tvg-chno="121" tvg-name="BERNAMA" tvg-id="121" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/502.png" group-title="TV",BERNAMA
-https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
-#EXTINF:0 channelID="x-ID.24" tvg-chno="123" tvg-name="Berita RTM" tvg-id="123" tvg-logo="https://berita.rtm.gov.my/images/logobes.jpg" group-title="TV",Berita RTM
-https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
 #EXTINF:0 channelID="x-ID.0" tvg-chno="701" tvg-name="Quran" tvg-id="701" tvg-logo="https://quran.com.kw/wp-content/uploads/brand.png" group-title="Radio",Quran
 http://quraan.us:9922/;*.mp3
 #EXTINF:0 channelID="x-ID.1" tvg-chno="702" tvg-name="Gegar" tvg-id="702" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Gegar_2018.png/revision/latest/scale-to-width-down/340?cb=20190529033017" group-title="Radio",Gegar
