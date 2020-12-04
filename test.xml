@@ -1560,8 +1560,8 @@
           <new></new>
       </programme>
       <programme channel="703" start="20201204200000 +0800" stop="20201205000000 +0800">
-          <title lang="en">R&R SINAR</title>
-          <desc lang="en">R&R SINAR</desc>
+          <title lang="en">R%26R SINAR</title>
+          <desc lang="en">R%26R SINAR</desc>
           <episode-num system="original-air-date">2020-12-04 10:00:00</episode-num>
           <icon height="" src="https://static.wikia.nocookie.net/logopedia/images/f/f0/Gegar_2018.png/revision/latest/scale-to-width-down/340?cb=20190529033017" width=""></icon>
           <video></video>
